@@ -1,9 +1,0 @@
-hr_dashboard/
-│── index.php
-│── sidebar.php
-│── db.php
-│── style.css
-│── script.js
-│── README.md
-│── modules/...
-│── sql/hr_dashboard.sql
